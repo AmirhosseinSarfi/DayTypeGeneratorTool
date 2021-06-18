@@ -1,0 +1,4 @@
+KPI,Value,Description
+Silhoutte Score,0.5619292259216309,"Best=1, Worst=-1, 0=overlapping"
+Calinski Harabasz Score,118.13009707364904,"no ""acceptable"" cut-off value. The higher the better"
+Davies Bouldin Score,0.852508423897767,minimum=0. Lower values indicates better clustering

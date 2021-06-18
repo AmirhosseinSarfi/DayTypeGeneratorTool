@@ -1,0 +1,4 @@
+KPI,Value,Description
+Silhoutte,0.3162934184074402,"[Bad = -1, Good = 1]"
+Calinski-Harabasz,42.796298823293824,The higher the better
+Davies-Bouldin,1.411795616400304,The lower the better
